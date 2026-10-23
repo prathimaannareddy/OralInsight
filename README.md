@@ -1,7 +1,7 @@
 # OralInsight — Explainable AI for Oral Lesion Screening
 
 Undergraduate research project (8 weeks) · Supervisor: **Dr. Pankaj Pandey**
-Team: Student 1 [NAME / REGISTRATION NUMBER] · Student 2 [NAME / REGISTRATION NUMBER]
+Team: Annareddy Sai Prathima 2430010176, Manya Aghi 2430010231
 
 OralInsight classifies clinical photographs of oral lesions as **benign** or **malignant**. It uses transfer-learning CNNs evaluated under a leakage-controlled protocol, and explains every prediction with Grad-CAM. It is a **research prototype — not a medical device, not a diagnostic tool, and not clinically validated.**
 
